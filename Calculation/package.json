@@ -1,0 +1,11 @@
+{
+  "name": "calculation",
+  "version": "1.0.0",
+  "description": "My first module assignment",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
