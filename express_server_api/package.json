@@ -1,0 +1,14 @@
+{
+  "name": "creating_apis",
+  "version": "1.0.0",
+  "description": "\"Its my first apis creating in unit-4 sprint-1 Day-2 tayght by Dhaval Sir on  Thursday\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"masrur\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
